@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansa Himasara</h1>
-<h3 align="center">A passionate Full Stack Developer and oftware Engineering Student.</h3>
+<h3 align="center">A passionate Full Stack Developer and Software Engineering Student.</h3>
 
 - 🔭 I’m currently working on **Laravel + Firebase**
 
