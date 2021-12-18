@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel + Firebase**
 
-- 🌱 I’m currently learning **Python , Laravel**
+- 🌱 I’m currently learning **Python , Laravel and Flutter**
 
 - ⚡ Fun fact **Drink Coffee and Eat Codes**
 
