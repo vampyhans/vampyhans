@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansa Wijesinghe</h1>
-<h3 align="center">Full Stack Developer | Game Developer | Software Engineering Student</h3>
+<h3 align="center">Software Engineer 👨🏻‍💻  | Software Engineering Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampyhans" alt="vampyhans" /></a> </p>
 
