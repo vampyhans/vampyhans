@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Hansa Wijesinghe</h1>
+<h1 align="center">Hi 👋, I'm Hansa Himasara</h1>
 <h3 align="center">Software Engineer 👨🏻‍💻  | Software Engineering Student</h3>
 🔭 fluency in laravel
 
