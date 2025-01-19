@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hansa Himasara</h1>
 <h3 align="center">Software Engineer 🐧 | 🧠 Driven by tech, fitness 🚭 ☕ 📚 👨🏻‍💻 ♟️🏋🏻‍♂️ SE🎓 CS🎓</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vampyhans&label=Profile%20views&color=0e75b6&style=flat" alt="vampyhans" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampyhans" alt="vampyhans" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel, Spring Boot**
